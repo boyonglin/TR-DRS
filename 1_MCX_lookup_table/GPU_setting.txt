@@ -1,0 +1,4 @@
+% Bool who use each GPU or not, 1*nGPU(amount of GPU) can be used by this machine
+1 0
+% workload for each GPU, 1*nGPU(amount of GPU) can be used by this machine
+135 100

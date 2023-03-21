@@ -1,0 +1,2 @@
+% The beginning and endding index for wavelength to simulate by this PC
+1 18
